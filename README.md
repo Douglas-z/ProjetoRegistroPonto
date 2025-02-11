@@ -1,4 +1,5 @@
 # ProjetoRegistroPonto
 Projeto realizado na instituição de ensino do Senac
 
-Utilizado Java + Framework Spring
+Back-end - Java + Framework Spring
+Front - end - ReactJS  
